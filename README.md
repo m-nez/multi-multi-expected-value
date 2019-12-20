@@ -1,1 +1,1 @@
-# multi-multi-expected-value
+# Calculate the expected value of a Multi Multi bet
